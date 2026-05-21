@@ -5,10 +5,6 @@ Camu Camu Extract (Myrciaria dubia): Validated Reduced-Order
 Lagrangian CFD Model with Uncertainty Quantification
 
 Universidad Nacional de San Agustín — 2026
-
-Target journal: Journal of Food Engineering (Q1, IF ~5.9)
-
-NEW in v2.0:
   - Full ANOVA table (F-value, p-value, adjusted R², PRESS)
   - Monte Carlo uncertainty propagation on Ea and k0
   - Morris OAT sensitivity analysis (5 factors)
