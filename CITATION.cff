@@ -1,0 +1,58 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Lagrangian CFD Simulation of Ascorbic Acid Retention During Spray Drying of Myrciaria dubia Extract"
+version: 2.0.0
+date-released: 2026-05-20
+license: MIT
+repository-code: "https://github.com/<your-username>/camu-camu-spray-drying"
+
+authors:
+  - family-names: "[Apellido]"
+    given-names: "Alex"
+    affiliation: "Universidad Nacional de San Agustín de Arequipa (UNSA)"
+    email: alexfeernando1237@gmail.com
+  - family-names: "Condori"
+    given-names: "Alex"
+    affiliation: "Universidad Nacional de San Agustín de Arequipa (UNSA)"
+
+abstract: >
+  Python implementation of a Lagrangian particle-tracking CFD model for
+  predicting ascorbic acid (vitamin C) retention during spray drying of
+  Myrciaria dubia (camu camu) extract. Includes Box-Behnken Response Surface
+  Methodology, Monte Carlo uncertainty quantification, Morris global
+  sensitivity analysis, and glass transition temperature analysis.
+
+keywords:
+  - spray drying
+  - camu camu
+  - Myrciaria dubia
+  - ascorbic acid
+  - CFD
+  - Lagrangian simulation
+  - response surface methodology
+  - Box-Behnken design
+  - Monte Carlo
+  - food engineering
+
+references:
+  - type: article
+    title: "Mathematical modeling of the thermal degradation kinetics of vitamin C in whole tomato"
+    authors:
+      - family-names: "Viera"
+        given-names: "M.C."
+    journal: "Journal of Food Engineering"
+    volume: 46
+    issue: 4
+    pages: "269-279"
+    year: 2000
+  - type: article
+    title: "Effects of spray-drying conditions on antioxidant capacity and volatile compounds of camu-camu"
+    authors:
+      - family-names: "Fujita"
+        given-names: "A."
+    journal: "Journal of Food Science"
+    volume: 82
+    issue: 5
+    pages: "1083-1091"
+    year: 2017
